@@ -1,5 +1,6 @@
 # analysis_chicago_crimes
 
+The original dataset is [here](https://we.tl/t-ez8zUugHBQ), this analysis is based on the criminal reports of the city of Chicago in USA.
 In the file "CHICAGO_ANALYSIS_MIGUEL_SILVA.ipynb" are the answers to both questions
 The main.py file include an API.
 The model is uploaded [here](https://we.tl/t-h9ufmHkTUJ) because this normally could have been in an S3 bucket.
